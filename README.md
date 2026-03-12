@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KarolMarszal
-- 👀 I’m interested in windows apps and embeded programming
-- 🌱 I’m currently learning C#, mostly WPF, C/C++
-- 💞️ I’m looking to collaborate on some engaging project usig WPF
+- 👀 I’m interested in windows/mobile apps and embeded programming
+- 🌱 I’m currently learning C#, mostly MAUI, C/C++
+- 💞️ I’m looking to collaborate on some engaging project usig WPF/MAUI
 - 📫 How to reach me? Use email karolmarszal91@gmail.com
 
 <!---
